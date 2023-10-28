@@ -1,3 +1,3 @@
 # diff-practice
 git renshu
-mainブランチで更新（rebase用）
+rebase practiceブランチで更新（rebaseconflict用）
